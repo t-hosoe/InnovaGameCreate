@@ -1,0 +1,15 @@
+\documentclass{jsarticle}
+\begin{document}
+
+\begin{table}[htb]
+\centering
+  \begin{tabular}{|l||l|}  \hline
+    6/16 シェルとスクリプト1 & 7/7 C言語　第2章 \ \hline
+    6/23 シェルとスクリプト2& 7/14 C言語　第3章前半\ \cline{2-2}
+　　　　とこれまでの復習& 7/21 C言語　第3章後半\ \hline
+　6/30 てすと& ・・・\ \cline{2-2}
+　　　　・・・・&・・・ \ \hline
+  \end{tabular}
+\end{table}
+
+\end{document}
